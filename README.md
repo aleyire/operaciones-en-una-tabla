@@ -9,7 +9,6 @@ En el proyecto se crea una Base de datos en donde se almacenan dos tablas (post_
 - Administrar usuario y bases de datos
 - Elementos de una base de datos
 - Instrucciones de creación, inserción, actualización y eliminación de datos
--
 ## Integrantes:
 - Alejandra Barria
 - Kika Cortes
