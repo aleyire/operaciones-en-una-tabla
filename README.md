@@ -14,4 +14,5 @@ En el proyecto se crea una Base de datos en donde se almacenan dos tablas (post_
 - Kika Cortes
 - Adriana Oviedo
 
+## Visualización de las tablas
 ![](https://github.com/aleyire/operaciones-en-una-tabla/blob/main/img/preview.png)
